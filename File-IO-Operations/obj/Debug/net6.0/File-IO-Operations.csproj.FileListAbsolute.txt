@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\File-IO-Operations\File-IO-Operations\obj\Debug\net6.0\File-IO-Operations.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\File-IO-Operations\File-IO-Operations\obj\Debug\net6.0\File-IO-Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\File-IO-Operations\File-IO-Operations\obj\Debug\net6.0\File-IO-Operations.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\File-IO-Operations\File-IO-Operations\obj\Debug\net6.0\File-IO-Operations.AssemblyInfo.cs
+C:\Users\USER\source\repos\File-IO-Operations\File-IO-Operations\obj\Debug\net6.0\File-IO-Operations.csproj.CoreCompileInputs.cache
